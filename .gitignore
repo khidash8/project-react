@@ -5,6 +5,7 @@ scripts/flow/*/.flowconfig
 *~
 *.pyc
 .grunt
+.vercel
 _SpecRunner.html
 __benchmarks__
 build/
